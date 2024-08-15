@@ -6,7 +6,7 @@ tags:   [kafka, system-design]
 
 # Kafka
 
-![Example](/images/example.drawio.png)
+![diagram](diagram.png)
 
 Kafka is a distributed real-time data handling system. It stores real-time data and serves it to consumers. 
 Clients who post data to kafka are called as `producers` and who listens to get the data are called the `consumers`.

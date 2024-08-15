@@ -1,11 +1,13 @@
-baseURL = "https://example.org/"
+baseURL = "https://maheshkumar-novice.github.io/"
 languageCode = "en-us"
 title = "Weblogs"
 theme = "hugo-bearcub"
 enableRobotsTXT = true
+
 [params]
   title = "Weblogs"
   description = "Blogs of a Debugger"
+
 [markup]
   [markup.highlight]
     lineNos = true
