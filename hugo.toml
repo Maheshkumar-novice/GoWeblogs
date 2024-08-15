@@ -1,0 +1,17 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Weblogs"
+theme = "hugo-bearcub"
+enableRobotsTXT = true
+[params]
+  title = "Weblogs"
+  description = "Blogs of a Debugger"
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
