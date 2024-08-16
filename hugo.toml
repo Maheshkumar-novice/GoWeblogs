@@ -17,3 +17,6 @@ enableRobotsTXT = true
     endLevel = 3
     ordered = false
     startLevel = 1
+
+[permalinks]
+  checkins = "/checkins/:year/:month/:day/"
