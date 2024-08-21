@@ -15,6 +15,8 @@ Always grateful to the [The Odin Project](https://theodinproject.com) and their 
 Current plans,
 - To write blog consistently
 - To read [this](https://cses.fi/book/book.pdf) consistently
+- Learn more about `scrapy`
+- Read regularly
 
 Recent participations/projects,
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
