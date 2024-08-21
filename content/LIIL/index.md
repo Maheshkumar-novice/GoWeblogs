@@ -6,7 +6,7 @@ weight: 4
 
 LIIL? Look Into It Later? I want to give this page a name. So here it is. Here I store resources that I like the most. I've an idea to build a separate application for this but that is for later.
 
-Should I read/explore things in phone? Sometimes it's a dilemma. Because I read/explore few things one laptop and few things on phone and it all get mixed up and so confusing. I don't even know what to read and what to store for later. I need to find/make a solution for this.
+Should I read/explore things in phone? Sometimes it's a dilemma. Because I read/explore few things on laptop and few things on phone and it all get mixed up and so confusing. I don't even know what to read and what to store for later. I need to find/make a solution for this.
 
 Currently Reading,
 
