@@ -75,3 +75,5 @@ Evergrowing Long List Of Things I Want To Read/Explore Later,
 * https://build-your-own.org/redis/#table-of-contents
 
 * https://teachyourselfcs.com/
+
+* https://jwiegley.github.io/git-from-the-bottom-up/
