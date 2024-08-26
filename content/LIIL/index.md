@@ -78,4 +78,8 @@ Evergrowing Long List Of Things I Want To Read/Explore Later,
 
 * https://jwiegley.github.io/git-from-the-bottom-up/
 
+* https://zed.dev/
+
+* https://docs.astral.sh/uv/
+
 Will continue expanding :)
