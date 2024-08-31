@@ -10,8 +10,6 @@ Should I read/explore things in phone? Sometimes it's a dilemma. Because I read/
 
 Currently Reading,
 
-* https://phrack.org/issues/71/17.html [Article/Blog]
-
 * https://cpu.land/ [Re-reading] [Exploration]
 
 
