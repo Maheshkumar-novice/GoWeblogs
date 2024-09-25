@@ -8,15 +8,13 @@ Hey, There! I'm Maheshkumar. I love to **debug** when things go wrong.
 
 > "Debugging code? Think of it as solving a mystery. Track down those pesky bugs that messed up your code, fix them up, and make sure everything runs smoothly again."
 
-I mostly work with **python** & **postgres**. I try to contribute to open source projects in the way I can.
+I mostly work with **python**, **postgres** & **kafka**. I try to contribute to open source projects in the way I can.
 
 Always grateful to the [The Odin Project](https://theodinproject.com) and their friendly community.
 
 Current plans,
-- To write blog consistently
-- To read [this](https://cses.fi/book/book.pdf) consistently
-- Learn more about `scrapy`
-- Read regularly
+- Try to write here often
+- Preparation for the `Advent Of Code 2024` using the [this](https://cses.fi/book/book.pdf)
 
 Recent participations/projects,
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
