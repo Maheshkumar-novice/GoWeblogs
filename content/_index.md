@@ -20,6 +20,7 @@ Ideas to explore,
 - Write a blog about learnings from using `splitlines` vs iterating the string directly
 - Check about for loop vs using map
 - Check about how long threads will execute in python process as well as how OS interrupts. What will happen CPU intensive threads run for a long time? is it possible?
+- Learn about thread local storage
 
 Recent participations/projects,
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
