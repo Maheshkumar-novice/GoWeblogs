@@ -23,6 +23,7 @@ Ideas to explore,
 - Learn about thread local storage
 - How to use multiple redis hosts? and why do we need it?
 - How many threads is affordable in 4 CPU env?
+- Write about the learnings I got when I was exploring about manual commit?
 
 Recent participations/projects,
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
