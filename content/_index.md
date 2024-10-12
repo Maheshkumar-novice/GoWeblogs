@@ -12,23 +12,6 @@ I mostly work with **python**, **postgres** & **kafka**. I try to contribute to 
 
 Always grateful to the [The Odin Project](https://theodinproject.com) and their friendly community.
 
-Current plans,
-- Try to write here often
-- Preparation for the `Advent Of Code 2024` using [this](https://cses.fi/book/book.pdf)
-- Write about the blog ideas I had in the past - celery, multiprocessing fork vs spawn - etc.
-- Try to participate in Hacktoberfest
-- I got some good learning resources buffered up but I'm going to finish the book from 2nd point first before trying out other things
-
-Ideas to explore,
-- Write a blog about learnings from using `splitlines` vs iterating the string directly
-- Check about for loop vs using map
-- Check about how long threads will execute in python process as well as how OS interrupts. What will happen CPU intensive threads run for a long time? is it possible?
-- Learn about thread local storage
-- How to use multiple redis hosts? and why do we need it?
-- How many threads is affordable in 4 CPU env?
-- Write about the learnings I got when I was exploring about manual commit?
-- Take and try kafka and redis official courses
-
 Recent participations/projects,
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
 
