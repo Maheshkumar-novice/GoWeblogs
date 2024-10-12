@@ -14,7 +14,10 @@ Always grateful to the [The Odin Project](https://theodinproject.com) and their 
 
 Current plans,
 - Try to write here often
-- Preparation for the `Advent Of Code 2024` using the [this](https://cses.fi/book/book.pdf)
+- Preparation for the `Advent Of Code 2024` using [this](https://cses.fi/book/book.pdf)
+- Write about the blog ideas I had in the past - celery, multiprocessing fork vs spawn - etc.
+- Try to participate in Hacktoberfest
+- I got some good learning resources buffered up but I'm going to finish the book from 2nd point first before trying out other things
 
 Ideas to explore,
 - Write a blog about learnings from using `splitlines` vs iterating the string directly
