@@ -26,3 +26,9 @@ Few of my works,
   * Simple math game for kids built with HTML, CSS & JS
 - [LIIL](https://github.com/Maheshkumar-novice/LIIL)
   * Personal utility to store links to read later, Built with Flask
+
+Reading List,
+- [ ] https://hypermedia.systems/book/contents/
+- [ ] https://cses.fi/book/book.pdf
+- [ ] https://www.bottomupcs.com/
+- [ ] https://web.mit.edu/6.001/6.037/sicp.pdf
