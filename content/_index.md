@@ -32,3 +32,5 @@ Reading List,
 - [ ] https://cses.fi/book/book.pdf
 - [ ] https://www.bottomupcs.com/
 - [ ] https://web.mit.edu/6.001/6.037/sicp.pdf
+- [x] https://users.ece.cmu.edu/~gamvrosi/thelastq.html
+
