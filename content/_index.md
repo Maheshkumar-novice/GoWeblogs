@@ -29,6 +29,7 @@ Few of my works,
 
 Reading List,
 - [ ] https://hypermedia.systems/book/contents/
+- [ ] https://www.cosmicpython.com/book/preface.html
 - [ ] https://cses.fi/book/book.pdf
 - [ ] https://www.bottomupcs.com/
 - [ ] https://web.mit.edu/6.001/6.037/sicp.pdf
