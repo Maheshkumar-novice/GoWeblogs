@@ -13,6 +13,7 @@ I mostly work with **python**, **postgres** & **kafka**. I try to contribute to 
 Always grateful to the [The Odin Project](https://theodinproject.com) and their friendly community.
 
 Recent participations/projects,
+- [Own Site](https://maheshkumar.blog/)
 - [Advent Of Code](https://github.com/Maheshkumar-novice/Advent-Of-Code-Solutions)
 - [Python Discord](https://www.pythondiscord.com/) [Summer Code Jam](https://github.com/krishnabhat3383/code-jam-24-luminous-lightyears)
 
@@ -24,12 +25,3 @@ Few of my works,
   * Simple math game for kids built with HTML, CSS & JS
 - [LIIL](https://github.com/Maheshkumar-novice/LIIL)
   * Personal utility to store links to read later, Built with Flask
-
-Reading List,
-- [ ] https://hypermedia.systems/book/contents/
-- [ ] https://www.cosmicpython.com/book/preface.html
-- [ ] https://cses.fi/book/book.pdf
-- [ ] https://www.bottomupcs.com/
-- [ ] https://web.mit.edu/6.001/6.037/sicp.pdf
-- [x] https://users.ece.cmu.edu/~gamvrosi/thelastq.html
-
