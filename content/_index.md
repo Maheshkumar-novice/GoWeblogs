@@ -10,8 +10,6 @@ Hey, There! I'm Maheshkumar. I love to **debug** when things go wrong.
 
 I mostly work with **python**, **postgres** & **kafka**. I try to contribute to open source projects in the way I can.
 
-> Learning with Claude.AI https://fishy-ruby-c03.notion.site/AI-Conversations-17fa5449e2ea803f890dd1b9fac2b804 (Don't worry its just a notion site)
-
 Always grateful to the [The Odin Project](https://theodinproject.com) and their friendly community.
 
 Recent participations/projects,
