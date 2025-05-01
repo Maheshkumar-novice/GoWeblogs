@@ -1,6 +1,6 @@
 ---
 title:  "Everyday Tools"
-date:   2025-05-01 08:55:58 +0530
+date:   2025-04-30 08:55:58 +0530
 tags:   [tools]
 ---
 
