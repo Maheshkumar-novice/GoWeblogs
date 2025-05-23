@@ -18,5 +18,5 @@ enableRobotsTXT = true
     ordered = false
     startLevel = 1
 
-[permalinks]
-  checkins = "/checkins/:year/:month/:day/"
+# [permalinks]
+#   checkins = "/checkins/:year/:month/:day/"
