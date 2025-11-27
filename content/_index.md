@@ -4,7 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-Hey, There! I'm Maheshkumar. I love to **debug** when things go wrong. [My Current Blog: https://mahi-novice.bearblog.dev/]
+Hey, There! I'm Maheshkumar. I love to **debug** when things go wrong. [https://mahi-novice.bearblog.dev/](https://mahi-novice.bearblog.dev/)
 
 > "Debugging code? Think of it as solving a mystery. Track down those pesky bugs that messed up your code, fix them up, and make sure everything runs smoothly again."
 
